@@ -48,7 +48,7 @@ MDN documentation aided me along the way.
 A few difficulties I encountered: horizontal and vertical item centering.
 How do we center it without the thing bouncing about and shrinking?
 
-Some code snippets I found helped but doesn't help entirely, see below:
+Some code snippets I found helpful but doesn't help entirely, see below:
 
 ```html
 <div class="container">
