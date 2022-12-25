@@ -22,7 +22,7 @@ I challenged myself with the QR Code Component to hone my frontend skills.
 
 ### Screenshot
 
-![](https://drive.google.com/file/d/1lg0FSoaqbj7gz6vEdkjwTg0oTmcXVQl5/view?usp=sharing)
+![QR screenshoot solution](https://github.com/01Alfred/QR-code-component/blob/main/images/QR%20screenshot%20solution.png?raw=true)
 
 
 
@@ -79,7 +79,7 @@ Some code snippets I found helped but doesn't help entirely, see below:
 }
 
 ```
-
+- [freeCodeCamp](https://www.freecodecamp.org/news/how-to-center-anything-with-css-align-a-div-text-and-more/) - Had the snippet from here.
 
 
 
