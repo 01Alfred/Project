@@ -28,8 +28,8 @@ I challenged myself with the QR Code Component to hone my frontend skills.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [live site URL here](https://01alfred.github.io/QR-code-component/)
+- Solution URL: [Click here](https://www.frontendmentor.io/solutions/qr-code-component-65lorsnoR8)
+- Live Site URL: [Click here](https://01alfred.github.io/QR-code-component/)
 
 ## My process
 
