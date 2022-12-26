@@ -22,7 +22,7 @@ I challenged myself with the QR Code Component to hone my frontend skills.
 
 ### Screenshot
 
-![QR screenshoot solution](https://github.com/01Alfred/QR-code-component/blob/main/images/QR%20screenshot%20solution.png?raw=true)
+![QR screenshoot solution](https://raw.githubusercontent.com/01Alfred/QR-code-component/abc34d730f4f5b7c4dbe478b0c93bc684bf9c96c/images/Revised%20Solution.png)
 
 
 
