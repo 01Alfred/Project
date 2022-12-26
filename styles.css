@@ -7,51 +7,67 @@
   background-color: hsl(212, 45%, 89%);
 }
 
-
 body {
-  font-family: 'Outfit', sans-serif;
-  font-size: 14px;
-
+  font-family: 'Outfit', serif;
+  font-size: 0.875rem;
+  min-height: 100vh;
+  display: grid;
+  place-content: center;
 }
 
-
-#main {
-  margin-top: 100px;
+h1 {
+  visibility: hidden;
 }
-
 
 .main-container {
- margin: auto;
- max-height: 100%;
- max-width: 320px;
- border-radius: 20px;
- padding: 15px;
-
+  max-height: 100%;
+  max-width: 18rem;
+  border-radius: 1.25rem;
+  padding: 0.94rem;
 }
 
-
 .qr-image {
-  border-radius: 10px;
+  border-radius: 0.64rem;
   max-width: 100%;
 }
 
-
-
 .heading {
-  line-height: 25px;
   text-align: center;
   color: hsl(218, 44%, 22%);
-  padding: 10px;
-
+  padding: 0.625rem;
 }
 
 .sub-heading {
   text-align: center;
   color: hsl(220, 15%, 55%);
   font-weight: 400;
-  padding: 14px;
+  padding: 0.875rem;
 }
 
 .main-container, .sub-heading, .heading {
   background-color: hsl(0, 0%, 100%);
+}
+
+.coder {
+  margin-top: 0.7rem;
+  font-size: 0.7rem;
+  text-align: center;
+}
+
+.coder a {
+  color: hsl(218deg, 44%, 22%);
+}
+
+@media screen and (min-width: 36rem) and (min-height: 40rem) {
+  .coder {
+    position: fixed;
+    bottom: 0.325rem;
+    width: 100%;
+  }
+}
+
+@media (hover: hover) {
+  .coder a:hover {
+    color: hsl(220deg, 15%, 55%);
+  }
 }
